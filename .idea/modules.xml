@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cnnn.iml" filepath="$PROJECT_DIR$/.idea/modules/cnnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cnnn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cnnn_main.iml" group="cnnn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cnnn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cnnn_test.iml" group="cnnn" />
+    </modules>
+  </component>
+</project>
